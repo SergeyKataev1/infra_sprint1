@@ -1,0 +1,5 @@
+IP: 158.160.72.66
+https://taski-taski.ddns.net
+https://kitty-kitty.ddns.net
+login: yc-user
+password: 0000
