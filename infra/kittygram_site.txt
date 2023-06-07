@@ -1,5 +1,5 @@
-IP: 158.160.72.66
-name_taski: https://taski-taski.ddns.net
-name_kittygram: https://kitty-kitty.ddns.net
-login: yc-user
-password: 0000
+IP: 158.160.72.66;
+name_taski: https://taski-taski.ddns.net;
+name_kittygram: https://kitty-kitty.ddns.net;
+login: yc-user;
+password: 0000;
