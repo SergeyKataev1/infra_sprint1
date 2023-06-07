@@ -80,5 +80,4 @@ server {
     server_name 158.160.72.66 kitty-kitty.ddns.net;
     listen 80;
     return 404; # managed by Certbot
-
 }
